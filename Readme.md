@@ -1,2 +1,2 @@
-<title>PROYECTO AMIGO SECRETO - ALURA </title>
-<h1>Jeremy Leonel Campoverde Armijos</h1>
+PROYECTO AMIGO SECRETO - ALURA <h1> PROYECTO AMIGO SECRETO - ALURA</h1>
+Jeremy Leonel Campoverde Armijos
